@@ -5,6 +5,7 @@ body { padding: 0;
   background-color: darkslategray;
   font-style: normal;
   padding: 15px;
+  height: fit-content;
 
 }
 
@@ -26,13 +27,13 @@ h4 {
   margin-left: auto;
   width: 150px;
   height: 250 px;
+  
 }
-
 
 img {
   border-radius: 50%;
+ 
 }
-
 
 .contact ul {
   background-color: black;
@@ -46,7 +47,9 @@ img {
   padding-left: 100px;
 }
 
-.part1 { display:flex;}
+.part1 {
+   display:flex;
+  }
 
 .col1{ width: 50%;
   margin-left: 30px;
@@ -54,17 +57,11 @@ img {
 h2{ color: rgb(53, 134, 53);
 text-decoration: underline;}
 
-.education h2 {
-  
-  color: rgb(53, 134, 53)
-}
+
 
 .education h2 {
   margin-top: 60px;
 }
-
-
-
 
 .Ach p {
   font-style: italic;
@@ -85,9 +82,12 @@ text-decoration: underline;}
 
 .Honor {
   margin-top: 15px;
+  
 }
 
-
+.container {
+  margin-bottom: 80px; 
+}
  
 .r1{
   border-radius: 13px;
@@ -99,6 +99,10 @@ text-decoration: underline;}
   color:white;
   padding:10px;
  }
-
-
-.online  ul{list-style-type: none;}
+ 
+.online  ul{ 
+  list-style-type: none;
+  margin-top: 20px;
+}
+.r2{ font-style: italic;
+color:cornflowerblue;}
