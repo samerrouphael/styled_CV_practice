@@ -105,4 +105,16 @@ text-decoration: underline;}
   margin-top: 20px;
 }
 .r2{ font-style: italic;
-color:cornflowerblue;}
+color:cornflowerblue;
+}
+
+
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .part1{display: none;}
+  .contact{display: block;}
+}
