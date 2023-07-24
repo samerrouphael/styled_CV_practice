@@ -1,0 +1,104 @@
+body { padding: 0;
+      margin:0;
+}
+.intro {
+  background-color: darkslategray;
+  font-style: normal;
+  padding: 15px;
+
+}
+
+.intro p {
+  color: white;
+}
+
+h1 {
+  color: white;
+}
+
+h4 {
+  color: blueviolet;
+
+}
+
+.src {
+  display: block;
+  margin-left: auto;
+  width: 150px;
+  height: 250 px;
+}
+
+
+img {
+  border-radius: 50%;
+}
+
+
+.contact ul {
+  background-color: black;
+  color: white;
+  margin-top: 0%;
+  list-style-type: none;
+}
+
+.contact li {
+  display: inline;
+  padding-left: 100px;
+}
+
+.part1 { display:flex;}
+
+.col1{ width: 50%;
+  margin-left: 30px;
+}
+h2{ color: rgb(53, 134, 53);
+text-decoration: underline;}
+
+.education h2 {
+  
+  color: rgb(53, 134, 53)
+}
+
+.education h2 {
+  margin-top: 60px;
+}
+
+
+
+
+.Ach p {
+  font-style: italic;
+  word-spacing: 400px;
+
+}
+
+
+
+.Ach2 p {
+  font-style: italic;
+  word-spacing: 400px;
+}
+
+.Ach2 ul {
+  margin-bottom: 100px;
+}
+
+.Honor {
+  margin-top: 15px;
+}
+
+
+ 
+.r1{
+  border-radius: 13px;
+  background-color:grey;
+  display: inline-block;
+  Height : 30px;
+  width: 100px;
+  text-align: center;
+  color:white;
+  padding:10px;
+ }
+
+
+.online  ul{list-style-type: none;}
